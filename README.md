@@ -25,7 +25,7 @@ Spring Boot, como controladores, servicios, repositorios, entidades, y uso de ba
 
 ## 🧱 Estructura del Proyecto 
 
-[src/main/java/com/example/hitss/springboot/taskmanager](/src/main/java/com/example/hitss/springboot/taskmanager/)<br>
+[src/main/java/com/example/hitss/springboot/taskmanager](taskmanager/src/main/java/com/example/hitss/springboot/taskmanager)<br>
 
 
     ├── controllers/        → Controladores REST (Auth, User, Task)
